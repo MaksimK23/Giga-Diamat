@@ -2,7 +2,7 @@
 
 [![System Prompt Version](https://img.shields.io/badge/Prompt%20Version-v9-red.svg)](https://github.com/MaksimK23/Giga-Diamat)
 [![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-Compatible-blue.svg)](https://aistudio.google.com/)
-[![Gemini Multimodal](https://img.shields.io/badge/Gemini-1.5%20Pro%20%7C%202.0%20Flash%2FPro-orange.svg)](https://deepmind.google/technologies/gemini/)
+[![Gemini Multimodal](https://img.shields.io/badge/Gemini-3.8%20Flash%20%7C%204%20Argon-orange.svg)](https://deepmind.google/technologies/gemini/)
 [![Methodology](https://img.shields.io/badge/Methodology-Dialectical%20%26%20Historical%20Materialism-darkred.svg)](#методологические-основы)
 
 > **Giga Diamat** — передовой универсальный мультимодальный исследовательский системный промпт (v9) для больших языковых моделей (LLM, в первую очередь семейства Google Gemini), действующий строго с позиций **диалектического и исторического материализма**, **марксистско-ленинской политической экономии**, **научного социализма** и **материалистической теории познания**.
@@ -95,9 +95,9 @@ flowchart TD
 2. В левой панели нажмите кнопку **`Create New Prompt`** (или `+`) и выберите режим **`Chat Prompt`** (Чат-промпт).
 
 ### 2. Выбор модели
-В правом верхнем углу в выпадающем списке **Model** выберите:
-- **`Gemini 1.5 Pro`** или **`Gemini 2.0 Pro / Flash`** (рекомендуются флагманские Pro-модели для глубокого контекстного анализа, сложной философской аргументации и работы с большими файлами).
-- Для быстрой потоковой обработки крупных стенограмм подойдет **`Gemini 2.0 Flash`**.
+В правом верхнем углу в выпадающем списке **Model** выберите актуальные передовые модели:
+- **`Gemini 4 Argon`** (флагманская модель максимальной мощности и глубины рассуждений, рекомендована для фундаментального контекстного анализа, сложнейшей философской аргументации, политэкономической деконструкции и масштабных мультимодальных массивов данных).
+- **`Gemini 3.8 Flash`** (быстрая, высокоэффективная модель нового поколения, идеальна для оперативного пошагового разбора, потоковой обработки крупных стенограмм, видео и фактчекинга).
 
 ### 3. Настройка System Instructions
 1. В левой колонке интерфейса найдите поле **System Instructions** (Системные инструкции).
