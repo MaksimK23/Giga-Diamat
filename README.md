@@ -1,11 +1,11 @@
-# Giga Diamat (v9)
+# Giga Diamat (v9.1)
 
-[![System Prompt Version](https://img.shields.io/badge/Prompt%20Version-v9-red.svg)](https://github.com/MaksimK23/Giga-Diamat)
+[![System Prompt Version](https://img.shields.io/badge/Prompt%20Version-v9.1-red.svg)](https://github.com/MaksimK23/Giga-Diamat)
 [![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-Compatible-blue.svg)](https://aistudio.google.com/)
 [![Gemini Multimodal](https://img.shields.io/badge/Gemini-3.8%20Flash%20%7C%204%20Argon-orange.svg)](https://deepmind.google/technologies/gemini/)
 [![Methodology](https://img.shields.io/badge/Methodology-Dialectical%20%26%20Historical%20Materialism-darkred.svg)](#методологические-основы)
 
-> **Giga Diamat** — передовой универсальный мультимодальный исследовательский системный промпт (v9) для больших языковых моделей (LLM, в первую очередь семейства Google Gemini), действующий строго с позиций **диалектического и исторического материализма**, **марксистско-ленинской политической экономии**, **научного социализма** и **материалистической теории познания**.
+> **Giga Diamat** — передовой универсальный мультимодальный исследовательский системный промпт (v9.1) для больших языковых моделей (LLM, в первую очередь семейства Google Gemini), действующий строго с позиций **диалектического и исторического материализма**, **марксистско-ленинской политической экономии**, **научного социализма** и **материалистической теории познания**.
 
 ---
 
@@ -27,6 +27,7 @@
   - [Шаг 3: Пошаговый разбор (Команды продолжения)](#шаг-3-пошаговый-разбор-команды-продолжения)
   - [Шаг 4: Финальный диалектический синтез](#шаг-4-финальный-диалектический-синтез)
 - [Работа с мультимодальными источниками](#работа-с-мультимодальными-источниками)
+- [История изменений (Changelog)](#история-изменений-changelog)
 - [Лицензия и цитирование](#лицензия-и-цитирование)
 
 ---
@@ -48,8 +49,8 @@ Giga Diamat превращает LLM из поверхностного гене�
 
 | Файл | Язык | Описание |
 | :--- | :--- | :--- |
-| [**`Giga Diamat 9 RU.md`**](./Giga%20Diamat%209%20RU.md) | Русский | Полный системный промпт версии 9 на русском языке. Оптимален для русскоязычных диалогов и анализа русскоязычных источников. |
-| [**`Giga Diamat 9.md`**](./Giga%20Diamat%209.md) | English | Full System Prompt v9 in English. Designed for international research, English-language workflows, and cross-lingual analysis. |
+| [**`Giga Diamat 9.1 RU.md`**](./Giga%20Diamat%209.1%20RU.md) | Русский | Полный системный промпт версии 9.1 на русском языке. Оптимален для русскоязычных диалогов и анализа русскоязычных источников. |
+| [**`Giga Diamat 9.1.md`**](./Giga%20Diamat%209.1.md) | English | Full System Prompt v9.1 in English. Designed for international research, English-language workflows, and cross-lingual analysis. |
 
 ---
 
@@ -101,7 +102,7 @@ flowchart TD
 
 ### 3. Настройка System Instructions
 1. В левой колонке интерфейса найдите поле **System Instructions** (Системные инструкции).
-2. Откройте файл [**`Giga Diamat 9 RU.md`**](./Giga%20Diamat%209%20RU.md) (или английскую версию [**`Giga Diamat 9.md`**](./Giga%20Diamat%209.md)).
+2. Откройте файл [**`Giga Diamat 9.1 RU.md`**](./Giga%20Diamat%209.1%20RU.md) (или английскую версию [**`Giga Diamat 9.1.md`**](./Giga%20Diamat%209.1.md)).
 3. Скопируйте **весь текст файла целиком** (от первой строки `# Марксистско-ленинский...` до последнего слова).
 4. Вставьте скопированный текст в поле **System Instructions**.
 5. Нажмите кнопку сворачивания или примените изменения.
@@ -198,12 +199,22 @@ flowchart TD
 
 ---
 
+## 📝 История изменений (Changelog)
+
+### v9.1
+- **Уточнение протокола использования формул LaTeX (`$$...$$`, раздел II.4):** Конкретизированы основания для математической формализации — блоки LaTeX применяются целенаправленно для раскрытия анализируемого материала и представленных в нём формул либо в рамках эмпирического фактчекинга, исключая отвлечённое наукообразие и избыточные уравнения без содержательной необходимости.
+
+### v9
+- Базовый релиз мультимодального аналитического агента v9 (русская и английская версии).
+
+---
+
 ## 📜 Лицензия и вклад
 
 Данный проект распространяется под свободной лицензией **MIT License**. Вы можете свободно использовать, адаптировать и интегрировать данный промпт в исследовательские пайплайны, агентурные фреймворки и образовательные проекты.
 
 При использовании материалов в научных работах и публичных исследованиях приветствуется ссылка на репозиторий:
 ```text
-Giga Diamat: Marxist-Leninist Multimodal Analytical Agent System Prompt (v9).
+Giga Diamat: Marxist-Leninist Multimodal Analytical Agent System Prompt (v9.1).
 GitHub: https://github.com/MaksimK23/Giga-Diamat
 ```
